@@ -33,5 +33,4 @@ def pass_gen():
 
     print(generated_password)
 
-
 pass_gen()
